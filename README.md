@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kira-light-yagami
-- 👀 I’m interested in 
+- 👀 I’m interested in automation
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
